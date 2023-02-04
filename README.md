@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **jadamalsangeetha@gmail.com**
 
-- 📄 Know about my experiences [https://www.canva.com/design/DAFT3gCYSBY/T7ZHe3JqexAivuNxJml9Xw/view?utm_content=DAFT3gCYSBY&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink](https://www.canva.com/design/DAFT3gCYSBY/T7ZHe3JqexAivuNxJml9Xw/view?utm_content=DAFT3gCYSBY&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
