@@ -1,12 +1,5 @@
 <!DOCTYPE html>
 <html>
-  <head>
-        <style>
-            body{
-                background: linear-gradient(to right, #FFCDB2 25%, #FFB4A2 50%, #E5989B 75%, #998FA8 100%);
-            }
-        </style>
-    </head>
 <body>
 <h1 align="center">Hi 👋, I'm Jadamal Sangeetha</h1>
 <h3 align="center">A passionate full-stack developer from India</h3>
