@@ -1,4 +1,4 @@
-<img src="banner 2.jpg"/>
+<img src="banner 3.jpg"/>
 <h1 align="center">Hi 👋, I'm Jadamal Sangeetha</h1>
 <h3 align="center">A passionate full-stack developer from India</h3>
 <img align="right" alt="Coding" width="400" src="picture.jpg">
