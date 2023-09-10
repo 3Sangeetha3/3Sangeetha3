@@ -29,4 +29,3 @@
   <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false&username=3sangeetha3" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false&username=3sangeetha3" height="150" alt="languages graph"  /></div>
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?animations=false&theme=radical&locale=en&hide_border=false&user=3sangeetha3&" alt="3sangeetha3" /></p>
-<img src="https://github.com/3Sangeetha3/3Sangeetha3/blob/output/snake.svg" alt="Snake animation" />
