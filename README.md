@@ -1,11 +1,17 @@
-<h1 align="center">Hi 👋, I'm Jadamal Sangeetha</h1>
+<h1 align="center">Hi 👋, I'm Sangeetha</h1>
 <h3 align="center">A passionate full-stack developer from India</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=3sangeetha3&label=Profile%20views&color=0e75b6&style=flat" alt="3sangeetha3" /> </p>
 
-- 🌱 I’m currently learning **JAVASCRIPT, DSA, CPP,**
+- Hello, World! 👋 I'm a budding full-stack developer with a thirst for knowledge. 🌐
 
-- 💬 Ask me about **HTML,CSS**
+- I've honed my skills in HTML, CSS, JavaScript, Python, C, and C++.
+- I'm currently immersing myself in the world of Node.js and Java.
+- I'm also working on refining my JavaScript skills.
+- I'm a firm believer in lifelong learning and I'm always eager to dive into new technologies. 💡
 
+- My passion lies in creating meaningful and efficient applications that can make a difference.
+- I'm always open to collaboration and innovative ideas.
+- Let's learn and grow together in this amazing journey of coding! 💻
 - 📫 How to reach me **jadamalsangeetha@gmail.com**
 
 <div align="left">
