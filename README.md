@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sangeetha</h1>
 <h3 align="center">A passionate full-stack developer from India</h3>
+<p align="center"><a href="https://discord.com/users/1037395520034967562"><img src="https://lanyard-profile-readme.vercel.app/api/1037395520034967562"></a></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=3sangeetha3&label=Profile%20views&color=0e75b6&style=flat" alt="3sangeetha3" /> </p>
 
 - Hello, World! 👋 I'm a budding full-stack developer with a thirst for knowledge. 🌐
